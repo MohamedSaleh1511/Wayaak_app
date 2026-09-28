@@ -1,0 +1,2 @@
+D:/Projects/Flutter/Tqnia projects/wayaak/android/app/.cxx/RelWithDebInfo/4a1u5o23/x86/CMakeFiles/edit_cache.dir
+D:/Projects/Flutter/Tqnia projects/wayaak/android/app/.cxx/RelWithDebInfo/4a1u5o23/x86/CMakeFiles/rebuild_cache.dir

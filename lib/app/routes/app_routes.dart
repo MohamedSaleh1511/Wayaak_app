@@ -1,0 +1,42 @@
+class Routes {
+  Routes._();
+
+  static const splash = '/splash';
+  static const login = '/login';
+  static const signup = '/signup';
+  static const chooseUserType = '/choose-user-type';
+  static const forgetPass = '/forgetPass';
+  static const otpCode = '/otpCode';
+  static const resetPass = '/resetPass';
+  static const search = '/search';
+  static const settings = '/settings';
+  static const terms = '/terms';
+  static const about = '/about';
+  static const onboarding = '/onboarding';
+  static const welcome = '/welcome';
+  static const main = '/main';
+  static const chat = '/chat';
+  static const chatMessages = '/chat-messages';
+  static const orders = '/orders';
+  static const orderDetails = '/order-details';
+  static const profile = '/profile';
+  static const editProfile = '/edit-profile';
+  static const notification = '/notification';
+  static const savedLocations = '/saved-locations';
+  static const reviews = '/reviews';
+  static const support = '/support';
+  static const language = '/language';
+  static const addOrder = '/add-order';
+  static const changePass = '/change-pass';
+  static const offers = '/offers';
+  static const tickets = '/tickets';
+  static const ticketChat = '/ticket-chat';
+  static const addTicket = '/add-ticket';
+  static const addLocation = '/add-location';
+  static const coupons = '/coupons';
+  static const privacy = '/privacy';
+  static const contact = '/contact';
+  static const faq = '/faq';
+  static const checkout = '/checkout';
+  static const guest = '/guest';
+}

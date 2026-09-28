@@ -1,0 +1,17 @@
+<array>
+ <dict>
+  <key>CFBundleTypeRole</key>
+  <string>Editor</string>
+  <key>CFBundleURLSchemes</key>
+  <array>
+   <string>***IF YOU HAVE FACEBOOK SIGN IN CLIENT ID, TYPE HERE***</string>
+   <string>com.googleusercontent.apps.***YOUR_CLIENT_ID***</string>
+  </array> 
+ </dict>
+</array>
+
+wayaak ios client id 
+585942104701-6m518cikoqrh8lnrum3l4n4ev6rltqlc.apps.googleusercontent.com
+
+wayaak delivery ios client id
+585942104701-51kjgkk63cunn85mfi1u5ijmb48osqkl.apps.googleusercontent.com 
